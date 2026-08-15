@@ -1,5 +1,5 @@
 # My-CV
 
 ## Stack
-Backend: Go
-Frontend: React
+- Backend: Go
+- Frontend: React
